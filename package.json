@@ -1,0 +1,9 @@
+{
+  "name": "lgtv-youtube-cast",
+  "version": "0.1.0",
+  "description": "Adds a \"cast\" button to Youtube that allows you to use your notebook to play videos on LGTV, like your phone",
+  "main": "lib/index.js",
+  "repository": "https://github.com/haskellcamargo/lgtv-youtube-cast",
+  "author": "Marcelo Camargo <marcelocamargo@linuxmail.org>",
+  "license": "MIT"
+}
